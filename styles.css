@@ -1,0 +1,78 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#nav-header {
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h3 {
+    margin-bottom: 1cm;
+}
+
+#logo-ukraine {
+    color: rgb(206, 206, 0);
+    font-weight: 900;
+    font-size: large;
+}
+
+#logo-stand-footer {
+    margin-right: 23.5cm;
+}
+
+#logo {
+    font-weight: 900;
+    font-size: large;
+    letter-spacing: 0.05em;
+}
+
+#contacts {
+    font-weight: 700;
+         
+}
+
+#logo-ukraine:hover {
+    color: rgb(80, 80, 184);
+}
+
+#contacts1 {
+    color: #000;
+}
+
+#contacts1:hover {
+    color: rgb(80, 80, 184);
+}
+
+#main-btn {
+    width: 222px
+}
+
+#section-donate {
+    margin-top: 3cm;
+    margin-bottom: 2cm;
+}
+
+#iban {
+    line-height: 1cm;
+}
+
+#title-support {
+    text-align: center;
+}
+
+#img-caption {
+    font-weight: 600;
+    padding: 0 8cm 0 8cm;
+}
+
+#figure-people {
+    margin-top: 1cm;
+}
